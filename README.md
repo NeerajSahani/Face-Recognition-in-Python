@@ -1,6 +1,6 @@
 # Face-Recognition-in-Python
-Create dataset in root
-requirements
+Create dataset folder in root folder
+requirements are....
 numpy
 opencv
 sqlite3
